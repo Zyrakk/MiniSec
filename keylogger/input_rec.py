@@ -18,6 +18,6 @@ def on_release(key):
     if key == keyboard.Key.esc:
         return False
 
-# Listener
+# Listener de las teclas
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
