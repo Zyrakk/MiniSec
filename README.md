@@ -24,7 +24,7 @@ Un simple keylogger escrito en Python que registra las pulsaciones de teclas y l
 
 📚 **Uso:**
 ```bash
-python keylogger.py
+python input_rec.py
 ```
 
 ---
