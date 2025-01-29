@@ -12,7 +12,7 @@ Este repositorio está destinado únicamente para fines educativos y de investig
 ### 🔑 Keylogger en Python
 Un simple keylogger escrito en Python que registra las pulsaciones de teclas y las almacena en un archivo. Este proyecto demuestra cómo funcionan los keyloggers y cómo pueden ser detectados.
 
-📂 **Ubicación:** [`keylogger/`](keylogger/) \n
+📂 **Ubicación:** [`keylogger/`](keylogger/)  
 📝 **Características:**
 - Captura las pulsaciones de teclado en segundo plano.
 - Guarda el registro en un archivo de texto.
