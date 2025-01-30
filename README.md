@@ -1,4 +1,4 @@
-# Mini Proyectos de Ciberseguridad 🛡️
+# Proyectos de Ciberseguridad 🛡️
 
 Este repositorio contiene una colección de mini proyectos relacionados con ciberseguridad. La intención es explorar, aprender y documentar herramientas y técnicas utilizadas en seguridad informática, siempre con fines educativos y éticos.
 
